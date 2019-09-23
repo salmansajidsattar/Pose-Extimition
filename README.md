@@ -6,3 +6,4 @@
 3.If you want to run on image run the following command</br>
 `python Image.py --img download.jpg`</br>
 ## Result</br>
+![alt text](https://user-images.githubusercontent.com/38104294/65428224-750a1380-de2d-11e9-8b4d-2a756eaf67e7.jpg)
